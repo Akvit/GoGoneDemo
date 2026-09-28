@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_title">Про розробника</string>
+
+    <string name="about_description">
+        Привіт! Мене звати Павло, я Android-розробник. Я створив цей застосунок, щоб зробити вивчення неправильних дієслів простим і зручним.
+    </string>
+
+    <string name="about_opportunities">
+        Відкритий до нових можливостей
+    </string>
+
+    <string name="about_opportunities_description">
+        Я відкритий до цікавих проєктів, нових карʼєрних можливостей та співпраці. Якщо вам сподобався цей застосунок — буду радий познайомитися!
+    </string>
+
+    <string name="about_linkedin">Мій LinkedIn</string>
+    <string name="about_email">Написати мені</string>
+    <string name="no_app_to_open">Не знайдено застосунок для відкриття</string>
+
+    <string name="settings_title">Налаштування</string>
+
+    <string name="theme">Тема</string>
+    <string name="theme_light">Світла</string>
+    <string name="theme_dark">Темна</string>
+    <string name="theme_system">Системна тема</string>
+
+    <string name="show_all_tips">Показати всі підказки</string>
+    <string name="forgot_how_to_use_app">Забули, як користуватися застосунком? Ми можемо нагадати!</string>
+    <string name="all_hints_enabled">Усі підказки знову ввімкнено</string>
+</resources>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="learn">Навчання</string>
+    <string name="test">Тест</string>
+
+    <string name="learning_mode_title">Режими навчання</string>
+
+    <string name="learning_mode_random_title">Випадкові 20</string>
+    <string name="learning_mode_random_desc">20 випадкових неправильних дієслів</string>
+
+    <string name="learning_mode_frequency_title">За частотою</string>
+    <string name="learning_mode_frequency_desc">Групи неправильних дієслів за частотою використання</string>
+
+    <string name="learning_mode_pattern_title">За типом</string>
+    <string name="learning_mode_pattern_desc">Групи неправильних дієслів за типами зміни форм</string>
+
+    <string name="learning_mode_marathon_title">Марафон</string>
+    <string name="learning_mode_marathon_desc">Готові пройти всі неправильні дієслова?</string>
+
+    <string name="learning_mode_all_title">Усі неправильні дієслова</string>
+    <string name="learning_mode_all_desc">Усі доступні неправильні дієслова</string>
+    <string name="choose_mode">Виберіть режим</string>
+
+    <string name="pattern_title">Виберіть тип зміни</string>
+
+    <string name="pattern_aaa_title">AAA — усі форми однакові</string>
+    <string name="pattern_aaa_desc" translatable="false">cut – cut – cut</string>
+
+    <string name="pattern_abb_title">ABB — форми минулого часу та дієприкметника однакові</string>
+    <string name="pattern_abb_desc" translatable="false">bring – brought – brought</string>
+
+    <string name="pattern_aba_title">ABA — інфінітив і дієприкметник однакові</string>
+    <string name="pattern_aba_desc" translatable="false">come – came – come</string>
+
+    <string name="pattern_abc_title">ABC — усі форми різні</string>
+    <string name="pattern_abc_desc" translatable="false">go – went – gone</string>
+
+    <string name="frequency_title">Виберіть частоту використання</string>
+
+    <string name="frequency_high_title">Часто вживані</string>
+    <string name="frequency_high_desc">Дієслова, які часто використовуються в англійській мові</string>
+
+    <string name="frequency_medium_title">Середньочастотні</string>
+    <string name="frequency_medium_desc">Дієслова із середньою частотою використання</string>
+
+    <string name="frequency_low_title">Рідко вживані</string>
+    <string name="frequency_low_desc">Дієслова, які використовуються рідко</string>
+
+    <string name="verbs_list">Список дієслів</string>
+    <string name="go_back">Назад</string>
+    <string name="infinitive">Інфінітив</string>
+    <string name="past_simple" translatable="false">Past Simple</string>
+    <string name="past_participle" translatable="false">Past Participle</string>
+    <string name="translate">Переклад</string>
+    <string name="question_number">Запитання %1$d з %2$d</string>
+    <string name="input_all_verb_forms">Введіть форми дієслова у відповідні поля</string>
+    <string name="next">Далі</string>
+    <string name="answer">Відповісти</string>
+    <string name="correct">Правильно!</string>
+    <string name="wrong_answer">Неправильно. Правильна відповідь: %1$s</string>
+
+    <string name="test_completed">Тест завершено</string>
+    <string name="result_summary">%1$d з %2$d правильних</string>
+    <string name="result_percent">%d%%</string>
+    <string name="result_message_perfect">🎉 Чудовий результат! Ви правильно відповіли на всі запитання.</string>
+    <string name="result_message_almost_perfect">🌟 Майже ідеально! Ще трохи практики — і буде 100%.</string>
+    <string name="result_message_good">💪 Дуже хороший результат! Так тримати.</string>
+    <string name="result_message_ok">📚 Непогано! Повторіть складніші дієслова, щоб закріпити знання.</string>
+    <string name="result_message_bad">🌱 Помилки — частина навчання. Повторіть дієслова та спробуйте ще раз.</string>
+    <string name="result_errors_title">Дієслова, які варто повторити:</string>
+    <string name="result_error_detail">Правильно: %1$s, ваша відповідь: %2$s</string>
+    <string name="continue_button">Продовжити</string>
+
+    <string name="learn_verbs">Вивчення дієслів</string>
+    <string name="verb_progress">%1$d / %2$d</string>
+
+    <string name="continue_learning">Продовжити</string>
+    <string name="learn_again">Переглянути ще раз</string>
+    <string name="text_exit_sure">Ви дійсно хочете завершити тест?</string>
+    <string name="learn_exit_sure">Ви дійсно хочете завершити навчання?</string>
+
+    <string name="answers_statistic">Статистика відповідей</string>
+    <string name="statistics_title">Статистика навчання</string>
+    <string name="empty_statistic_text">Проходьте тести, щоб побачити свій прогрес у навчанні</string>
+    <string name="error_rate_percent">%1$d%%</string>
+    <string name="statistic_description">Враховуються лише останні %1$d відповідей — для актуальної статистики.</string>
+    <string name="sort_hard_first">Спочатку складні</string>
+    <string name="sort_easy_first">Спочатку легкі</string>
+    <string name="statistics_updates_info">Статистика оновлюватиметься в міру проходження тестів</string>
+    <string name="start_test">Перейти до тестів</string>
+
+    <string name="learning_verbs_description">Додавайте дієслова до «Ваших дієслів» і вивчайте їх поступово. Додавати та видаляти дієслова можна в розділах «За частотою», «За типом» та «Усі неправильні дієслова»</string>
+    <string name="verbs_under_learn">Ваші дієслова</string>
+    <string name="verbs_under_learn_description">Дієслова, які ви вибрали для вивчення</string>
+    <string name="learning_verbs_title">Ваші дієслова</string>
+    <string name="learning_verbs_empty_title">Тут поки немає дієслів</string>
+    <string name="learning_verbs_empty_description">Додавайте дієслова, які хочете вивчити. Знайти їх можна у списках за частотою, за типом або серед усіх неправильних дієслів.</string>
+    <string name="add_verbs">Додати дієслова</string>
+    <string name="learning_verbs_recommendation_title">Порада для початку</string>
+    <string name="learning_verbs_recommendation_description">Почніть із 10 найпоширеніших дієслів. Невеликий список легше запам’ятати та закріпити.</string>
+    <string name="learning_verbs_count">Ваші дієслова: %1$d</string>
+    <string name="learning_verbs_hint">Натисніть на дієслово, щоб додати його до «Ваших дієслів» або видалити.</string>
+    <string name="save_learning_changes">Зберегти зміни</string>
+    <string name="your_verbs">Ваші дієслова</string>
+    <string name="your_verbs_description">Дієслова, які ви вибрали для вивчення</string>
+    <string name="out_of">%1$d з %2$d</string>
+
+    <string name="learning_completed_title">Навчання завершено</string>
+    <string name="learning_completed_description">Ви завершили цей блок навчання. Тепер можна перевірити, наскільки добре ви запам’ятали матеріал.</string>
+    <string name="learning_completed_start_test">Почати тест</string>
+    <string name="learning_completed_home">На головну</string>
+    <string name="delete_verb_from_list_learn_sure">Ви дійсно хочете видалити %1$s із «Ваших дієслів»?</string>
+
+    <string name="your_verbs_all">Усі</string>
+    <string name="your_verbs_all_description">Усі додані вами дієслова</string>
+
+    <string name="your_verbs_need_practice">Потрібно повторити</string>
+    <string name="your_verbs_need_practice_description">Дієслова, які ще не вивчені або потребують повторення</string>
+
+    <string name="your_verbs_learned">Вивчені</string>
+    <string name="your_verbs_learned_description">Дієслова, на які ви найчастіше відповідаєте правильно</string>
+
+    <string name="your_verbs_not_tested">Ще не тестувалися</string>
+    <string name="your_verbs_not_tested_description">Дієслова, які ви додали до «Ваших дієслів», але ще жодного разу не проходили в тесті</string>
+
+    <string name="under_learning">у навчанні</string>
+    <string name="there_is_no_verbs">У цьому розділі поки немає дієслів</string>
+    <string name="verbs_count_in_this_list">Дієслів у цьому розділі: %1$d</string>
+    <string name="empty_list_error">Не вдалося почати навчання. Додайте хоча б одне дієслово до «Ваших дієслів».</string>
+    <string name="add_remove_verb_hint">Натисніть на дієслово, щоб додати його до «Ваших дієслів» або видалити.</string>
+
+    <string name="verb_pattern">Тип зміни форм:</string>
+    <string name="usage_frequency">Частота використання:</string>
+
+    <string name="no_verbs_found_title">Тут поки нічого немає</string>
+    <string name="no_verbs_found_description">Додайте дієслова до «Ваших дієслів», щоб вони з’явилися тут</string>
+</resources>

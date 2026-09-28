@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="learn">Learning</string>
+    <string name="test">Test</string>
+
+    <string name="learning_mode_title">Learning Modes</string>
+
+    <string name="learning_mode_random_title">Random 20</string>
+    <string name="learning_mode_random_desc">20 random irregular verbs</string>
+
+    <string name="learning_mode_frequency_title">By Frequency</string>
+    <string name="learning_mode_frequency_desc">Groups of irregular verbs by usage frequency</string>
+
+    <string name="learning_mode_pattern_title">By Pattern</string>
+    <string name="learning_mode_pattern_desc">Groups of irregular verbs by their form patterns</string>
+
+    <string name="learning_mode_marathon_title">Marathon</string>
+    <string name="learning_mode_marathon_desc">Are you ready to go through all the irregular verbs?</string>
+
+    <string name="learning_mode_all_title">All Irregular Verbs</string>
+    <string name="learning_mode_all_desc">All available irregular verbs</string>
+
+    <string name="choose_mode">Choose a mode</string>
+
+    <string name="pattern_title">Choose a verb pattern</string>
+
+    <string name="pattern_aaa_title">AAA — all forms are the same</string>
+    <string name="pattern_aaa_desc" translatable="false">cut – cut – cut</string>
+
+    <string name="pattern_abb_title">ABB — past and participle forms are the same</string>
+    <string name="pattern_abb_desc" translatable="false">bring – brought – brought</string>
+
+    <string name="pattern_aba_title">ABA — infinitive and participle forms are the same</string>
+    <string name="pattern_aba_desc" translatable="false">come – came – come</string>
+
+    <string name="pattern_abc_title">ABC — all forms are different</string>
+    <string name="pattern_abc_desc" translatable="false">go – went – gone</string>
+
+    <string name="frequency_title">Choose usage frequency</string>
+
+    <string name="frequency_high_title">High Frequency</string>
+    <string name="frequency_high_desc">Verbs that frequently occur in speech</string>
+
+    <string name="frequency_medium_title">Medium Frequency</string>
+    <string name="frequency_medium_desc">Verbs that regularly occur in speech</string>
+
+    <string name="frequency_low_title">Low Frequency</string>
+    <string name="frequency_low_desc">Verbs that are not often used</string>
+
+    <string name="verbs_list">Verb List</string>
+    <string name="go_back">Back</string>
+
+    <string name="infinitive">Infinitive</string>
+    <string name="past_simple" translatable="false">Past Simple</string>
+    <string name="past_participle" translatable="false">Past Participle</string>
+    <string name="translate">Translation</string>
+
+    <string name="question_number">Question %1$d of %2$d</string>
+    <string name="input_all_verb_forms">Enter the verb forms in the corresponding fields</string>
+
+    <string name="next">Next</string>
+    <string name="answer">Answer</string>
+
+    <string name="correct">Correct!</string>
+    <string name="wrong_answer">Incorrect. The correct answer is: %1$s</string>
+
+    <string name="test_completed">Test Completed</string>
+    <string name="result_summary">%1$d out of %2$d correct</string>
+    <string name="result_percent">%d%%</string>
+
+    <string name="result_message_perfect">🎉 Excellent result! You answered all the questions correctly.</string>
+    <string name="result_message_almost_perfect">🌟 Almost perfect! A little more practice and you’ll reach 100%.</string>
+    <string name="result_message_good">💪 Great result! Keep it up.</string>
+    <string name="result_message_ok">📚 Not bad! Review the more difficult verbs to reinforce your knowledge.</string>
+    <string name="result_message_bad">🌱 Mistakes are part of learning. Review the verbs and try again.</string>
+
+    <string name="result_errors_title">Verbs worth reviewing:</string>
+    <string name="result_error_detail">Correct: %1$s, your answer: %2$s</string>
+
+    <string name="continue_button">Continue</string>
+
+    <string name="learn_verbs">Learning Verbs</string>
+    <string name="verb_progress">%1$d / %2$d</string>
+
+    <string name="continue_learning">Continue</string>
+    <string name="learn_again">Review Again</string>
+
+    <string name="text_exit_sure">Are you sure you want to end the test?</string>
+    <string name="learn_exit_sure">Are you sure you want to end the learning session?</string>
+
+    <string name="answers_statistic">Answer Statistics</string>
+    <string name="statistics_title">Learning Statistics</string>
+    <string name="empty_statistic_text">Start taking tests to see your learning progress</string>
+
+    <string name="error_rate_percent">%1$d%%</string>
+    <string name="statistic_description">Only the last %1$d answers are taken into account to keep the statistics up to date.</string>
+
+    <string name="sort_hard_first">Hardest First</string>
+    <string name="sort_easy_first">Easiest First</string>
+
+    <string name="statistics_updates_info">Statistics will be updated as you take more tests</string>
+    <string name="start_test">Go to Tests</string>
+
+    <string name="learning_verbs_description">Add verbs to “Your Verbs” and learn them gradually. You can add or remove verbs in the “By Frequency”, “By Pattern”, and “All Irregular Verbs” sections</string>
+
+    <string name="verbs_under_learn">Your Verbs</string>
+    <string name="verbs_under_learn_description">Verbs you have chosen to learn</string>
+
+    <string name="learning_verbs_title">Your Verbs</string>
+
+    <string name="learning_verbs_empty_title">There are no verbs here yet</string>
+    <string name="learning_verbs_empty_description">Add the verbs you want to learn. You can find them by frequency, by pattern, or among all irregular verbs.</string>
+
+    <string name="add_verbs">Add Verbs</string>
+
+    <string name="learning_verbs_recommendation_title">A Tip to Get Started</string>
+    <string name="learning_verbs_recommendation_description">Start with the 10 most common verbs. A smaller set is easier to remember and reinforce.</string>
+
+    <string name="learning_verbs_count">Verbs in Learning: %1$d</string>
+
+    <string name="learning_verbs_hint">Tap a verb to add it to “Your Verbs” or remove it.</string>
+
+    <string name="save_learning_changes">Save Changes</string>
+
+    <string name="your_verbs">Your Verbs</string>
+    <string name="your_verbs_description">Verbs you have chosen to learn</string>
+
+    <string name="out_of">%1$d of %2$d</string>
+
+    <string name="learning_completed_title">Learning Completed</string>
+    <string name="learning_completed_description">You’ve finished this learning block. Now you can check how well you remember the material.</string>
+
+    <string name="learning_completed_start_test">Start Test</string>
+    <string name="learning_completed_home">Go Home</string>
+
+    <string name="delete_verb_from_list_learn_sure">Are you sure you want to remove %1$s from “Your Verbs”?</string>
+
+    <string name="your_verbs_all">All Verbs</string>
+    <string name="your_verbs_all_description">All verbs you have added</string>
+
+    <string name="your_verbs_need_practice">Needs Practice</string>
+    <string name="your_verbs_need_practice_description">Verbs you haven’t learned yet or need to review</string>
+
+    <string name="your_verbs_learned">Learned</string>
+    <string name="your_verbs_learned_description">Verbs you usually answer correctly</string>
+
+    <string name="your_verbs_not_tested">Not Tested Yet</string>
+    <string name="your_verbs_not_tested_description">Verbs you have added but haven’t been tested on yet</string>
+
+    <string name="under_learning">in learning</string>
+
+    <string name="there_is_no_verbs">There are no verbs in this section yet</string>
+    <string name="verbs_count_in_this_list">Verbs in this section: %1$d</string>
+
+    <string name="empty_list_error">Could not start learning. Add at least one verb to “Your Verbs”.</string>
+
+    <string name="add_remove_verb_hint">Tap a verb to add it to “Your Verbs” or remove it.</string>
+
+    <string name="verb_pattern">Form pattern:</string>
+    <string name="usage_frequency">Usage frequency:</string>
+
+    <string name="no_verbs_found_title">Nothing here yet</string>
+    <string name="no_verbs_found_description">Add verbs to “Your Verbs” to see them here</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_title">O twórcy</string>
+
+    <string name="about_description">
+        Cześć! Mam na imię Paweł i jestem programistą Android. Stworzyłem tę aplikację, aby nauka czasowników nieregularnych była prosta i wygodna.
+    </string>
+
+    <string name="about_opportunities">
+        Otwarty na nowe możliwości
+    </string>
+
+    <string name="about_opportunities_description">
+        Jestem otwarty na ciekawe projekty, nowe możliwości zawodowe i współpracę. Jeśli podoba Ci się ta aplikacja — chętnie się poznam!
+    </string>
+
+    <string name="about_linkedin">Mój LinkedIn</string>
+    <string name="about_email">Napisz do mnie</string>
+    <string name="no_app_to_open">Nie znaleziono aplikacji do otwarcia</string>
+
+    <string name="settings_title">Ustawienia</string>
+
+    <string name="theme">Motyw</string>
+    <string name="theme_light">Jasny</string>
+    <string name="theme_dark">Ciemny</string>
+    <string name="theme_system">Motyw systemowy</string>
+
+    <string name="show_all_tips">Pokaż wszystkie podpowiedzi</string>
+    <string name="forgot_how_to_use_app">Zapomniałeś, jak korzystać z aplikacji? Możemy Ci przypomnieć!</string>
+    <string name="all_hints_enabled">Wszystkie podpowiedzi zostały ponownie włączone</string>
+
+</resources>

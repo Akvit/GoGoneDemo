@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="error_occurred">Сталася помилка</string>
+    <string name="retry">Спробувати знову</string>
+    <string name="back">Назад</string>
+    <string name="search">Пошук</string>
+</resources>

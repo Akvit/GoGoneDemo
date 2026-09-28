@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="error_occurred">Произошла ошибка</string>
+    <string name="retry">Попробовать снова</string>
+    <string name="back">Назад</string>
+    <string name="search">Поиск</string>
+
+</resources>

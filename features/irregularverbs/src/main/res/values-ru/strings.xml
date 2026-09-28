@@ -1,0 +1,163 @@
+<resources>
+
+    <string name="learn">Обучение</string>
+    <string name="test">Тест</string>
+
+    <string name="learning_mode_title">Режимы обучения</string>
+
+    <string name="learning_mode_random_title">Случайные 20</string>
+    <string name="learning_mode_random_desc">20 случайных неправильных глаголов</string>
+
+    <string name="learning_mode_frequency_title">По частоте</string>
+    <string name="learning_mode_frequency_desc">Группы неправильных глаголов по частоте использования</string>
+
+    <string name="learning_mode_pattern_title">По типу</string>
+    <string name="learning_mode_pattern_desc">Группы неправильных глаголов по типу изменения форм</string>
+
+    <string name="learning_mode_marathon_title">Марафон</string>
+    <string name="learning_mode_marathon_desc">Готовы пройти все неправильные глаголы?</string>
+
+    <string name="learning_mode_all_title">Все неправильные глаголы</string>
+    <string name="learning_mode_all_desc">Все доступные неправильные глаголы</string>
+
+    <string name="choose_mode">Выберите режим</string>
+
+    <string name="pattern_title">Выберите тип изменения</string>
+
+    <string name="pattern_aaa_title">AAA — все формы одинаковы</string>
+    <string name="pattern_aaa_desc" translatable="false">cut – cut – cut</string>
+
+    <string name="pattern_abb_title">ABB — совпадают прошедшая и причастная формы</string>
+    <string name="pattern_abb_desc" translatable="false">bring – brought – brought</string>
+
+    <string name="pattern_aba_title">ABA — совпадают инфинитив и причастная форма</string>
+    <string name="pattern_aba_desc" translatable="false">come – came – come</string>
+
+    <string name="pattern_abc_title">ABC — все формы разные</string>
+    <string name="pattern_abc_desc" translatable="false">go – went – gone</string>
+
+    <string name="frequency_title">Выберите частоту использования</string>
+
+    <string name="frequency_high_title">Высокочастотные</string>
+    <string name="frequency_high_desc">Глаголы, которые часто встречаются в речи</string>
+
+    <string name="frequency_medium_title">Среднечастотные</string>
+    <string name="frequency_medium_desc">Глаголы, которые регулярно встречаются в речи</string>
+
+    <string name="frequency_low_title">Редко используемые</string>
+    <string name="frequency_low_desc">Глаголы, которые нечасто встречаются в речи</string>
+
+    <string name="verbs_list">Список глаголов</string>
+    <string name="go_back">Назад</string>
+
+    <string name="infinitive">Инфинитив</string>
+    <string name="past_simple" translatable="false">Past Simple</string>
+    <string name="past_participle" translatable="false">Past Participle</string>
+    <string name="translate">Перевод</string>
+
+    <string name="question_number">Вопрос %1$d из %2$d</string>
+    <string name="input_all_verb_forms">Введите формы глагола в соответствующие поля</string>
+
+    <string name="next">Дальше</string>
+    <string name="answer">Ответить</string>
+
+    <string name="correct">Правильно!</string>
+    <string name="wrong_answer">Неправильно. Правильный ответ: %1$s</string>
+
+    <string name="test_completed">Тест завершён</string>
+    <string name="result_summary">%1$d из %2$d правильных</string>
+    <string name="result_percent">%d%%</string>
+
+    <string name="result_message_perfect">🎉 Отличный результат! Вы правильно ответили на все вопросы.</string>
+    <string name="result_message_almost_perfect">🌟 Почти идеально! Ещё немного практики — и будет 100%.</string>
+    <string name="result_message_good">💪 Отличный результат! Продолжайте в том же духе.</string>
+    <string name="result_message_ok">📚 Неплохо! Повторите сложные глаголы, чтобы закрепить результат.</string>
+    <string name="result_message_bad">🌱 Ошибки — часть обучения. Повторите глаголы и попробуйте ещё раз.</string>
+
+    <string name="result_errors_title">Глаголы, которые стоит повторить:</string>
+    <string name="result_error_detail">Правильно: %1$s, ваш ответ: %2$s</string>
+
+    <string name="continue_button">Продолжить</string>
+
+    <string name="learn_verbs">Изучение глаголов</string>
+    <string name="verb_progress">%1$d / %2$d</string>
+
+    <string name="continue_learning">Продолжить</string>
+    <string name="learn_again">Посмотреть ещё раз</string>
+
+    <string name="text_exit_sure">Вы действительно хотите завершить тест?</string>
+    <string name="learn_exit_sure">Вы действительно хотите завершить обучение?</string>
+
+    <string name="answers_statistic">Статистика ответов</string>
+    <string name="statistics_title">Статистика обучения</string>
+    <string name="empty_statistic_text">Начните проходить тесты, чтобы увидеть свой прогресс в обучении</string>
+
+    <string name="error_rate_percent">%1$d%%</string>
+    <string name="statistic_description">Учитываются только последние %1$d ответа — так статистика остаётся актуальной.</string>
+
+    <string name="sort_hard_first">Сначала трудные</string>
+    <string name="sort_easy_first">Сначала лёгкие</string>
+
+    <string name="statistics_updates_info">Статистика будет пополняться по мере прохождения тестов</string>
+    <string name="start_test">Перейти к тестам</string>
+
+    <string name="learning_verbs_description">Добавляйте глаголы в «Ваши глаголы» и изучайте их постепенно. Добавлять и удалять глаголы можно в разделах «По частоте», «По типу» и «Все неправильные глаголы»</string>
+
+    <string name="verbs_under_learn">Ваши глаголы</string>
+    <string name="verbs_under_learn_description">Глаголы, которые вы выбрали для изучения</string>
+
+    <string name="learning_verbs_title">Ваши глаголы</string>
+
+    <string name="learning_verbs_empty_title">Здесь пока нет глаголов</string>
+    <string name="learning_verbs_empty_description">Добавьте глаголы, которые хотите изучать. Найти их можно по частоте, по типу или среди всех неправильных глаголов.</string>
+
+    <string name="add_verbs">Добавить глаголы</string>
+
+    <string name="learning_verbs_recommendation_title">Совет для начала</string>
+    <string name="learning_verbs_recommendation_description">Начните с 10 самых распространённых глаголов. Небольшой список легче запомнить и закрепить.</string>
+
+    <string name="learning_verbs_count">Глаголов в обучении: %1$d</string>
+
+    <string name="learning_verbs_hint">Нажмите на глагол, чтобы добавить его в «Ваши глаголы» или удалить.</string>
+
+    <string name="save_learning_changes">Сохранить изменения</string>
+
+    <string name="your_verbs">Ваши глаголы</string>
+    <string name="your_verbs_description">Глаголы, которые вы выбрали для изучения</string>
+
+    <string name="out_of">%1$d из %2$d</string>
+
+    <string name="learning_completed_title">Обучение завершено</string>
+    <string name="learning_completed_description">Вы закончили этот блок обучения. Теперь можно проверить, насколько хорошо вы запомнили материал.</string>
+    <string name="learning_completed_start_test">Начать тест</string>
+    <string name="learning_completed_home">На главную</string>
+
+    <string name="delete_verb_from_list_learn_sure">Вы действительно хотите удалить %1$s из «Ваших глаголов»?</string>
+
+    <string name="your_verbs_all">Все глаголы</string>
+    <string name="your_verbs_all_description">Все добавленные вами глаголы</string>
+
+    <string name="your_verbs_need_practice">Нужно повторить</string>
+    <string name="your_verbs_need_practice_description">Глаголы, которые ещё не изучены или требуют повторения</string>
+
+    <string name="your_verbs_learned">Выученные</string>
+    <string name="your_verbs_learned_description">Глаголы, на которые вы чаще всего отвечаете правильно</string>
+
+    <string name="your_verbs_not_tested">Ещё не тестировались</string>
+    <string name="your_verbs_not_tested_description">Глаголы, которые вы добавили, но ещё ни разу не проходили в тесте</string>
+
+    <string name="under_learning">в обучении</string>
+    <string name="there_is_no_verbs">В этом разделе пока нет глаголов</string>
+    <string name="verbs_count_in_this_list">Глаголов в этом разделе: %1$d</string>
+
+    <string name="empty_list_error">Не удалось начать обучение. Добавьте хотя бы один глагол в «Ваши глаголы».</string>
+
+    <string name="add_remove_verb_hint">Нажмите на глагол, чтобы добавить его в «Ваши глаголы» или удалить.</string>
+
+    <string name="verb_pattern">Паттерн изменения:</string>
+    <string name="usage_frequency">Частота использования:</string>
+
+    <string name="no_verbs_found_title">Здесь пока ничего нет</string>
+    <string name="no_verbs_found_description">Добавьте глаголы в «Ваши глаголы», чтобы они появились здесь</string>
+
+</resources>

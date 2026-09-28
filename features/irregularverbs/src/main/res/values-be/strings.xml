@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="learn">Навучанне</string>
+    <string name="test">Тэст</string>
+
+    <string name="learning_mode_title">Рэжымы навучання</string>
+
+    <string name="learning_mode_random_title">Выпадковыя 20</string>
+    <string name="learning_mode_random_desc">20 выпадковых няправільных дзеясловаў</string>
+
+    <string name="learning_mode_frequency_title">Па частаце</string>
+    <string name="learning_mode_frequency_desc">Групы няправільных дзеясловаў па частаце выкарыстання</string>
+
+    <string name="learning_mode_pattern_title">Па тыпе</string>
+    <string name="learning_mode_pattern_desc">Групы няправільных дзеясловаў па тыпе змены форм</string>
+
+    <string name="learning_mode_marathon_title">Марафон</string>
+    <string name="learning_mode_marathon_desc">Гатовыя прайсці ўсе няправільныя дзеясловы?</string>
+
+    <string name="learning_mode_all_title">Усе няправільныя дзеясловы</string>
+    <string name="learning_mode_all_desc">Усе даступныя няправільныя дзеясловы</string>
+
+    <string name="choose_mode">Выберыце рэжым</string>
+
+    <string name="pattern_title">Выберыце тып змены</string>
+
+    <string name="pattern_aaa_title">AAA — усе формы аднолькавыя</string>
+    <string name="pattern_aaa_desc" translatable="false">cut – cut – cut</string>
+
+    <string name="pattern_abb_title">ABB — супадаюць формы прошлага часу і дзеепрыметніка</string>
+    <string name="pattern_abb_desc" translatable="false">bring – brought – brought</string>
+
+    <string name="pattern_aba_title">ABA — супадаюць інфінітыў і дзеепрыметнік</string>
+    <string name="pattern_aba_desc" translatable="false">come – came – come</string>
+
+    <string name="pattern_abc_title">ABC — усе формы розныя</string>
+    <string name="pattern_abc_desc" translatable="false">go – went – gone</string>
+
+    <string name="frequency_title">Выберыце частату выкарыстання</string>
+
+    <string name="frequency_high_title">Высокачастотныя</string>
+    <string name="frequency_high_desc">Дзеясловы, якія часта сустракаюцца ў маўленні</string>
+
+    <string name="frequency_medium_title">Сярэднечастотныя</string>
+    <string name="frequency_medium_desc">Дзеясловы, якія рэгулярна сустракаюцца ў маўленні</string>
+
+    <string name="frequency_low_title">Рэдка ўжываныя</string>
+    <string name="frequency_low_desc">Дзеясловы, якія нячаста сустракаюцца ў маўленні</string>
+
+    <string name="verbs_list">Спіс дзеясловаў</string>
+    <string name="go_back">Назад</string>
+
+    <string name="infinitive">Інфінітыў</string>
+    <string name="translate">Пераклад</string>
+
+    <string name="question_number">Пытанне %1$d з %2$d</string>
+    <string name="input_all_verb_forms">Увядзіце формы дзеяслова ў адпаведныя палі</string>
+
+    <string name="next">Далей</string>
+    <string name="answer">Адказаць</string>
+
+    <string name="correct">Правільна!</string>
+    <string name="wrong_answer">Няправільна. Правільны адказ: %1$s</string>
+
+    <string name="test_completed">Тэст завершаны</string>
+    <string name="result_summary">%1$d з %2$d правільных</string>
+    <string name="result_percent">%d%%</string>
+
+    <string name="result_message_perfect">🎉 Выдатны вынік! Вы правільна адказалі на ўсе пытанні.</string>
+    <string name="result_message_almost_perfect">🌟 Амаль ідэальна! Яшчэ крыху практыкі — і будзе 100%.</string>
+    <string name="result_message_good">💪 Выдатны вынік! Працягвайце ў тым жа духу.</string>
+    <string name="result_message_ok">📚 Нядрэнна! Паўтарыце складаныя дзеясловы, каб замацаваць вынік.</string>
+    <string name="result_message_bad">🌱 Памылкі — частка навучання. Паўтарыце дзеясловы і паспрабуйце яшчэ раз.</string>
+
+    <string name="result_errors_title">Дзеясловы, якія варта паўтарыць:</string>
+    <string name="result_error_detail">Правільна: %1$s, ваш адказ: %2$s</string>
+
+    <string name="continue_button">Працягнуць</string>
+
+    <string name="learn_verbs">Вывучэнне дзеясловаў</string>
+    <string name="verb_progress">%1$d / %2$d</string>
+
+    <string name="continue_learning">Працягнуць</string>
+    <string name="learn_again">Паглядзець яшчэ раз</string>
+
+    <string name="text_exit_sure">Вы сапраўды хочаце завяршыць тэст?</string>
+    <string name="learn_exit_sure">Вы сапраўды хочаце завяршыць навучанне?</string>
+
+    <string name="answers_statistic">Статыстыка адказаў</string>
+    <string name="statistics_title">Статыстыка навучання</string>
+    <string name="empty_statistic_text">Пачніце праходзіць тэсты, каб убачыць свой прагрэс у навучанні</string>
+
+    <string name="error_rate_percent">%1$d%%</string>
+    <string name="statistic_description">Улічваюцца толькі апошнія %1$d адказаў — так статыстыка застаецца актуальнай.</string>
+
+    <string name="sort_hard_first">Спачатку складаныя</string>
+    <string name="sort_easy_first">Спачатку лёгкія</string>
+
+    <string name="statistics_updates_info">Статыстыка будзе папаўняцца па меры праходжання тэстаў</string>
+    <string name="start_test">Перайсці да тэстаў</string>
+
+    <string name="learning_verbs_description">Дадавайце дзеясловы ў «Вашы дзеясловы» і вывучайце іх паступова. Дадаваць і выдаляць дзеясловы можна ў раздзелах «Па частаце», «Па тыпе» і «Усе няправільныя дзеясловы»</string>
+
+    <string name="verbs_under_learn">Вашы дзеясловы</string>
+    <string name="verbs_under_learn_description">Дзеясловы, якія вы выбралі для вывучэння</string>
+
+    <string name="learning_verbs_title">Вашы дзеясловы</string>
+
+    <string name="learning_verbs_empty_title">Тут пакуль няма дзеясловаў</string>
+    <string name="learning_verbs_empty_description">Дадайце дзеясловы, якія хочаце вывучаць. Знайсці іх можна па частаце, па тыпе або сярод усіх няправільных дзеясловаў.</string>
+
+    <string name="add_verbs">Дадаць дзеясловы</string>
+
+    <string name="learning_verbs_recommendation_title">Парада для пачатку</string>
+    <string name="learning_verbs_recommendation_description">Пачніце з 10 найбольш распаўсюджаных дзеясловаў. Невялікі спіс лягчэй запомніць і замацаваць.</string>
+
+    <string name="learning_verbs_count">Дзеясловаў у навучанні: %1$d</string>
+
+    <string name="learning_verbs_hint">Націсніце на дзеяслоў, каб дадаць яго ў «Вашы дзеясловы» або выдаліць.</string>
+
+    <string name="save_learning_changes">Захаваць змены</string>
+
+    <string name="your_verbs">Вашы дзеясловы</string>
+    <string name="your_verbs_description">Дзеясловы, якія вы выбралі для вывучэння</string>
+
+    <string name="out_of">%1$d з %2$d</string>
+
+    <string name="learning_completed_title">Навучанне завершана</string>
+    <string name="learning_completed_description">Вы скончылі гэты блок навучання. Цяпер можна праверыць, наколькі добра вы запомнілі матэрыял.</string>
+
+    <string name="learning_completed_start_test">Пачаць тэст</string>
+    <string name="learning_completed_home">На галоўную</string>
+
+    <string name="delete_verb_from_list_learn_sure">Вы сапраўды хочаце выдаліць %1$s з «Вашых дзеясловаў»?</string>
+
+    <string name="your_verbs_all">Усе дзеясловы</string>
+    <string name="your_verbs_all_description">Усе дададзеныя вамі дзеясловы</string>
+
+    <string name="your_verbs_need_practice">Трэба паўтарыць</string>
+    <string name="your_verbs_need_practice_description">Дзеясловы, якія яшчэ не вывучаны або патрабуюць паўтарэння</string>
+
+    <string name="your_verbs_learned">Вывучаныя</string>
+    <string name="your_verbs_learned_description">Дзеясловы, на якія вы часцей за ўсё адказваеце правільна</string>
+
+    <string name="your_verbs_not_tested">Яшчэ не тэставаліся</string>
+    <string name="your_verbs_not_tested_description">Дзеясловы, якія вы дадалі, але яшчэ ні разу не праходзілі ў тэсце</string>
+
+    <string name="under_learning">у навучанні</string>
+
+    <string name="there_is_no_verbs">У гэтым раздзеле пакуль няма дзеясловаў</string>
+    <string name="verbs_count_in_this_list">Дзеясловаў у гэтым раздзеле: %1$d</string>
+
+    <string name="empty_list_error">Не ўдалося пачаць навучанне. Дадайце хаця б адзін дзеяслоў у «Вашы дзеясловы».</string>
+
+    <string name="add_remove_verb_hint">Націсніце на дзеяслоў, каб дадаць яго ў «Вашы дзеясловы» або выдаліць.</string>
+
+    <string name="verb_pattern">Патэрн змены:</string>
+    <string name="usage_frequency">Частата выкарыстання:</string>
+
+    <string name="no_verbs_found_title">Тут пакуль нічога няма</string>
+    <string name="no_verbs_found_description">Дадайце дзеясловы ў «Вашы дзеясловы», каб яны з\'явіліся тут</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name" translatable="false">IrregularVerbs</string>
+
+    <string name="about_title">О разработчике</string>
+
+    <string name="about_description">
+        Привет! Меня зовут Павел, я Android-разработчик. Я создал это приложение, чтобы сделать изучение неправильных глаголов простым и удобным.
+    </string>
+
+    <string name="about_opportunities">
+        Открыт к новым возможностям
+    </string>
+
+    <string name="about_opportunities_description">
+        Я открыт к интересным проектам, новым карьерным возможностям и сотрудничеству. Если вам понравилось это приложение — буду рад познакомиться!
+    </string>
+
+    <string name="about_linkedin">Мой LinkedIn</string>
+    <string name="about_email">Написать мне</string>
+    <string name="no_app_to_open">Не найдено приложение для открытия</string>
+
+    <string name="settings_title">Настройки</string>
+
+    <string name="theme">Тема</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_system">Тема системы</string>
+
+    <string name="show_all_tips">Показать все подсказки</string>
+    <string name="forgot_how_to_use_app">Забыли как пользоваться приложением? Мы можем напомнить!</string>
+    <string name="all_hints_enabled">Все подсказки снова включены</string>
+</resources>

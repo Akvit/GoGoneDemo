@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="learn">Nauka</string>
+    <string name="test">Test</string>
+
+    <string name="learning_mode_title">Tryby nauki</string>
+
+    <string name="learning_mode_random_title">Losowe 20</string>
+    <string name="learning_mode_random_desc">20 losowych czasowników nieregularnych</string>
+
+    <string name="learning_mode_frequency_title">Według częstotliwości</string>
+    <string name="learning_mode_frequency_desc">Grupy czasowników nieregularnych według częstotliwości użycia</string>
+
+    <string name="learning_mode_pattern_title">Według typu</string>
+    <string name="learning_mode_pattern_desc">Grupy czasowników nieregularnych według wzorców odmiany</string>
+
+    <string name="learning_mode_marathon_title">Maraton</string>
+    <string name="learning_mode_marathon_desc">Czy można przejść przez wszystkie czasowniki nieregularne?</string>
+
+    <string name="learning_mode_all_title">Wszystkie czasowniki nieregularne</string>
+    <string name="learning_mode_all_desc">Wszystkie dostępne czasowniki nieregularne</string>
+    <string name="choose_mode">Wybierz tryb</string>
+
+    <string name="pattern_title">Wybierz typ odmiany</string>
+
+    <string name="pattern_aaa_title">AAA — wszystkie formy są takie same</string>
+    <string name="pattern_aaa_desc" translatable="false">cut – cut – cut</string>
+
+    <string name="pattern_abb_title">ABB — forma przeszła i imiesłów są takie same</string>
+    <string name="pattern_abb_desc" translatable="false">bring – brought – brought</string>
+
+    <string name="pattern_aba_title">ABA — bezokolicznik i imiesłów są takie same</string>
+    <string name="pattern_aba_desc" translatable="false">come – came – come</string>
+
+    <string name="pattern_abc_title">ABC — wszystkie formy są różne</string>
+    <string name="pattern_abc_desc" translatable="false">go – went – gone</string>
+
+    <string name="frequency_title">Wybierz częstotliwość użycia</string>
+
+    <string name="frequency_high_title">Często używane</string>
+    <string name="frequency_high_desc">Czasowniki często używane w języku angielskim</string>
+
+    <string name="frequency_medium_title">Średnio często używane</string>
+    <string name="frequency_medium_desc">Czasowniki o średniej częstotliwości użycia</string>
+
+    <string name="frequency_low_title">Rzadko używane</string>
+    <string name="frequency_low_desc">Czasowniki używane rzadko</string>
+
+    <string name="verbs_list">Lista czasowników</string>
+    <string name="go_back">Wstecz</string>
+    <string name="infinitive">Bezokolicznik</string>
+    <string name="past_simple" translatable="false">Past Simple</string>
+    <string name="past_participle" translatable="false">Past Participle</string>
+    <string name="translate">Tłumaczenie</string>
+    <string name="question_number">Pytanie %1$d z %2$d</string>
+    <string name="input_all_verb_forms">Wpisz formy czasownika w odpowiednie pola</string>
+    <string name="next">Dalej</string>
+    <string name="answer">Odpowiedz</string>
+    <string name="correct">Poprawnie!</string>
+    <string name="wrong_answer">Niepoprawnie. Prawidłowa odpowiedź: %1$s</string>
+
+    <string name="test_completed">Test zakończony</string>
+    <string name="result_summary">%1$d z %2$d poprawnych</string>
+    <string name="result_percent">%d%%</string>
+    <string name="result_message_perfect">🎉 Świetny wynik! Wszystkie odpowiedzi są poprawne.</string>
+    <string name="result_message_almost_perfect">🌟 Prawie idealnie! Jeszcze trochę praktyki i będzie 100%.</string>
+    <string name="result_message_good">💪 Bardzo dobry wynik! Tak trzymać.</string>
+    <string name="result_message_ok">📚 Nieźle! Powtórzenie trudniejszych czasowników pomoże utrwalić wiedzę.</string>
+    <string name="result_message_bad">🌱 Błędy są częścią nauki. Powtórz czasowniki i spróbuj ponownie.</string>
+    <string name="result_errors_title">Czasowniki, które warto powtórzyć:</string>
+    <string name="result_error_detail">Poprawnie: %1$s, Twoja odpowiedź: %2$s</string>
+    <string name="continue_button">Kontynuuj</string>
+
+    <string name="learn_verbs">Nauka czasowników</string>
+    <string name="verb_progress">%1$d / %2$d</string>
+
+    <string name="continue_learning">Kontynuuj</string>
+    <string name="learn_again">Zobacz jeszcze raz</string>
+    <string name="text_exit_sure">Czy na pewno chcesz zakończyć test?</string>
+    <string name="learn_exit_sure">Czy na pewno chcesz zakończyć naukę?</string>
+
+    <string name="answers_statistic">Statystyki odpowiedzi</string>
+    <string name="statistics_title">Statystyki nauki</string>
+    <string name="empty_statistic_text">Rozwiązuj testy, aby zobaczyć swoje postępy w nauce</string>
+    <string name="error_rate_percent">%1$d%%</string>
+    <string name="statistic_description">Uwzględnianych jest tylko %1$d ostatnich odpowiedzi — aby statystyki były aktualne.</string>
+    <string name="sort_hard_first">Najpierw trudne</string>
+    <string name="sort_easy_first">Najpierw łatwe</string>
+    <string name="statistics_updates_info">Statystyki będą uzupełniane w miarę rozwiązywania testów</string>
+    <string name="start_test">Przejdź do testów</string>
+
+    <string name="learning_verbs_description">Dodawaj czasowniki do „Twoich czasowników” i ucz się ich stopniowo. Możesz dodawać i usuwać czasowniki w sekcjach „Według częstotliwości”, „Według typu” i „Wszystkie czasowniki nieregularne”</string>
+    <string name="verbs_under_learn">Twoje czasowniki</string>
+    <string name="verbs_under_learn_description">Czasowniki wybrane do nauki</string>
+    <string name="learning_verbs_title">Twoje czasowniki</string>
+    <string name="learning_verbs_empty_title">Nie ma tu jeszcze żadnych czasowników</string>
+    <string name="learning_verbs_empty_description">Dodaj czasowniki, których chcesz się nauczyć. Znajdziesz je na listach według częstotliwości, typu lub wśród wszystkich czasowników nieregularnych.</string>
+    <string name="add_verbs">Dodaj czasowniki</string>
+    <string name="learning_verbs_recommendation_title">Wskazówka na początek</string>
+    <string name="learning_verbs_recommendation_description">Zacznij od 10 najczęściej używanych czasowników. Małą listę łatwiej zapamiętać i utrwalić.</string>
+    <string name="learning_verbs_count">Twoje czasowniki: %1$d</string>
+    <string name="learning_verbs_hint">Naciśnij czasownik, aby dodać go do „Twoich czasowników” lub usunąć.</string>
+    <string name="save_learning_changes">Zapisz zmiany</string>
+    <string name="your_verbs">Twoje czasowniki</string>
+    <string name="your_verbs_description">Czasowniki wybrane do nauki</string>
+    <string name="out_of">%1$d z %2$d</string>
+
+    <string name="learning_completed_title">Nauka zakończona</string>
+    <string name="learning_completed_description">Ten blok nauki został ukończony. Teraz można sprawdzić, jak dobrze został zapamiętany materiał.</string>
+    <string name="learning_completed_start_test">Rozpocznij test</string>
+    <string name="learning_completed_home">Strona główna</string>
+    <string name="delete_verb_from_list_learn_sure">Czy na pewno chcesz usunąć %1$s z „Twoich czasowników”?</string>
+
+    <string name="your_verbs_all">Wszystkie</string>
+    <string name="your_verbs_all_description">Wszystkie dodane przez Ciebie czasowniki</string>
+
+    <string name="your_verbs_need_practice">Do powtórki</string>
+    <string name="your_verbs_need_practice_description">Czasowniki, które nie zostały jeszcze opanowane lub wymagają powtórzenia</string>
+
+    <string name="your_verbs_learned">Opanowane</string>
+    <string name="your_verbs_learned_description">Czasowniki, na które najczęściej odpowiadasz poprawnie</string>
+
+    <string name="your_verbs_not_tested">Jeszcze nieprzetestowane</string>
+    <string name="your_verbs_not_tested_description">Czasowniki dodane do „Twoich czasowników”, które nie były jeszcze sprawdzane w teście</string>
+
+    <string name="under_learning">w nauce</string>
+    <string name="there_is_no_verbs">W tej sekcji nie ma jeszcze żadnych czasowników</string>
+    <string name="verbs_count_in_this_list">Czasowników w tej sekcji: %1$d</string>
+    <string name="empty_list_error">Nie udało się rozpocząć nauki. Dodaj co najmniej jeden czasownik do „Twoich czasowników”.</string>
+    <string name="add_remove_verb_hint">Naciśnij czasownik, aby dodać go do „Twoich czasowników” lub usunąć.</string>
+
+    <string name="verb_pattern">Wzorzec odmiany:</string>
+    <string name="usage_frequency">Częstotliwość użycia:</string>
+
+    <string name="no_verbs_found_title">Tutaj jeszcze nic nie ma</string>
+    <string name="no_verbs_found_description">Dodaj czasowniki do „Twoich czasowników”, aby pojawiły się tutaj</string>
+</resources>
